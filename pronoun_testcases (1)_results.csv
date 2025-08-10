@@ -1,0 +1,27 @@
+row,original,transformed,target_gender,pronouns_found,changed,pronoun_types
+1,He is going to the market.,She is going to the market.,female,1,True,subject
+2,His book is on the table.,Her book is on the table.,female,1,True,possessive_adj
+3,I saw him yesterday.,I saw her yesterday.,female,1,True,object
+4,He hurt himself.,She hurt herself.,female,2,True,"subject, reflexive"
+5,I called him last night.,I called her last night.,female,1,True,object
+6,That is his car.,That is her car.,female,1,True,possessive_adj
+7,He told me about his trip.,She told me about her trip.,female,2,True,"subject, possessive_adj"
+8,The teacher gave him a warning.,The teacher gave her a warning.,female,1,True,object
+9,He blames himself for the mistake.,She blames herself for the mistake.,female,2,True,"subject, reflexive"
+10,He brought his laptop.,She brought her laptop.,female,2,True,"subject, possessive_adj"
+11,He made it himself.,She made it herself.,female,2,True,"subject, reflexive"
+12,I don’t like his attitude.,I don’t like her attitude.,female,1,True,possessive_adj
+13,Tell him to come here.,Tell her to come here.,female,1,True,object
+14,She is going to the market.,He is going to the market.,male,1,True,subject
+15,Her book is on the table.,His book is on the table.,male,1,True,possessive_adj
+16,I saw her yesterday.,I saw his yesterday.,male,1,True,possessive_adj
+17,She hurt herself.,He hurt himself.,male,2,True,"subject, reflexive"
+18,I called her last night.,I called his last night.,male,1,True,possessive_adj
+19,That is her car.,That is his car.,male,1,True,possessive_adj
+20,She told me about her trip.,He told me about his trip.,male,2,True,"subject, possessive_adj"
+21,The teacher gave her a warning.,The teacher gave him a warning.,male,1,True,object
+22,She blames herself for the mistake.,He blames himself for the mistake.,male,2,True,"subject, reflexive"
+23,She brought her laptop.,He brought his laptop.,male,2,True,"subject, possessive_adj"
+24,She made it herself.,He made it himself.,male,2,True,"subject, reflexive"
+25,I don’t like her attitude.,I don’t like his attitude.,male,1,True,possessive_adj
+26,Tell her to come here.,Tell him to come here.,male,1,True,object
